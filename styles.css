@@ -1,0 +1,154 @@
+.d {
+    display: flex;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: black;
+    
+    
+}
+
+.red {
+    color: #FF0505;
+}
+
+.rama {
+    position: absolute;
+    height: 250px;
+    width: 260px;
+    left: 105px;
+    top: 138px;
+}
+
+
+.butterfly1 {
+    position: absolute;
+    height: 106px;
+    width: 107px;
+    left: 174px;
+    top: 92px;
+    border-radius: 0px;
+
+}
+
+
+.butterfly2 {
+    position: absolute;
+    height: 146px;
+    width: 142px;
+    left: 856px;
+    top: 12px;
+    border-radius: 71px;
+    transform: scale(-1, 1);
+}
+
+.h1 {
+    position: absolute;
+    font-size: 40px;
+    left: 458px;
+    top: 135px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+    
+}
+
+.h2 {
+    position: absolute;
+    left: 520px;
+    top: 192px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+
+}
+
+.h3 {
+    position: absolute;
+    
+    left: 439px;
+    top: 275px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+
+}
+
+.h4 {
+    position: absolute;
+    color: #FD3E3E;
+
+    left: 460px;
+    top: 355px;
+    font-family: 'Jost', sans-serif;
+
+
+}
+
+.h5 {
+    position: absolute;
+    font-size: 14px;
+    left: 440px;
+    top: 387px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+
+}
+
+.h6 {
+    position: absolute;
+    font-size: 14px;
+    left: 639px;
+    top: 387px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+
+}
+
+.h7 {
+    position: absolute;
+    font-size: 46px;
+    left: 209px;
+    top: 227px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+}
+
+.number {
+    position: absolute;
+    height: 49px;
+    width: 136px;
+    left: 439px;
+    top: 305px;
+    border-radius: 0px;
+
+}
+
+.button1 {
+    position: absolute;
+    background-color: #E25656;
+    color: whitesmoke;
+    height: 24px;
+    width: 100px;
+    left: 598px;
+    top: 315px;
+    border-radius: 0px;
+    font-family: 'Jost', sans-serif;
+    
+}
+
+.button2 {
+    position: absolute;
+    background-color: #F03D3D;
+    color: whitesmoke;
+    height: 70px;
+    width: 70px;
+    left: 926px;
+    top: 422px;
+    border-radius: 50px;
+    font-family: 'Jost', sans-serif;
+}
